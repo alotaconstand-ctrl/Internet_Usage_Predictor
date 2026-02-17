@@ -1,3 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Gradio temp files
+.gradio/
+
+# Certificates / secrets
+*.pem
+
+# Python cache
+__pycache__/
+*.pyc
+
+
 model/
 __pycache__/
 *.pyc
